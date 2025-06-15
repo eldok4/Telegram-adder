@@ -5,3 +5,6 @@ This script has almost all of the telegram related tool and will be updated ever
 
 ## Script interface
 ![Screenshot 1](https://telegra.ph/file/fc87db39c11ff37c42998-03bffd89fb022a121b.jpg)
+
+**Add New Account**
+![Screenshot 2](https://telegra.ph/file/fb85357f7a98140ba3198-a723c61f6cac3758b4.jpg)
