@@ -56,7 +56,8 @@ after scraping members from option 2 use the option 3 to add members. choose the
 ## Running
 
 1. **Gitclone the repo**
-2. ```gitclone https://github.com/EmilyHelp/Testt/edit/main/README.md```
+2. ```gitclone https://github.com/EmilyHelp/Testt/edit/main/README.md
+```
 ```bash
    pip install -r requirements.txt
    ```
