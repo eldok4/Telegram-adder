@@ -62,8 +62,9 @@ after scraping members from option 2 use the option 3 to add members. choose the
 2. **Open the folder**
 ```
   cd Telegram-Member
+```
 
-3. **Install Requirements**
+3. **Telegram-Memberequirements**
 ```
   pip install r- requirements.txt
     
