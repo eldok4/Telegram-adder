@@ -61,7 +61,7 @@ after scraping members from option 2 use the option 3 to add members. choose the
    ```
 2. **Open the folder**
 ```
-  cd Telegram-Member
+  cd Telegram-adder
 ```
 
 3. **Install Requirements**
@@ -70,6 +70,24 @@ after scraping members from option 2 use the option 3 to add members. choose the
 ```
 4. **Run the script**
 ```
-python main.py
+  python main.py
 ```
     
+## Usage 
+You're free to use, but I'm not responsible for unfair usage. I have no relation with the people who uses this script.
+
+## License 
+This script is free and fair use only. Dont buy if people selling you this one, it's completely free. and you shouldn't make commercial profit out of this. 
+
+## safety 
+I'm not responsible if your account got banned. never use your main account and buy old accounts for better adding and spams.
+
+## Limitations
+
+1. **Adding** you can add only 50 members per day from one account.
+2. **rate limit** added rate limit to avoid getting limited.
+3. **Spam limit** you can't add from a spam limited accounts.
+4. **idk** maybe new limitations occur cuz telegram keeps updating thier security.
+
+## Contact 📞
+
