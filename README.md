@@ -20,4 +20,4 @@ This script has almost all of the telegram related tool and will be updated ever
 
 ## Features
 
-# Add multi Accounts
+**Add multi Accounts**
