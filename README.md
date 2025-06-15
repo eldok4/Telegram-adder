@@ -61,5 +61,5 @@ gitclone https://github.com/EmilyHelp/Testt/edit/main/README.md
    ```
 2. Open the folder
    ```
-   cd Telegram-Member
+cd Telegram-Member
    ```
