@@ -68,7 +68,7 @@ after scraping members from option 2 use the option 3 to add members. choose the
 ```
   pip install r- requirements.txt
 ```
-4 Run the script
+4 **Run the script**
 ```
 python main.py
 ```
