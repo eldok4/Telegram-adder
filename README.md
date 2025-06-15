@@ -2,10 +2,24 @@
 Advanced Telegram Member Adder And Marketing Tool ever made is free for everyone :) 
 This script has almost all of the telegram related tool and will be updated everyday with new features, Motivate me? **just star the repo xD**! 
 
+### Built With
+
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Script interface
 ![Screenshot 1](https://telegra.ph/file/fc87db39c11ff37c42998-03bffd89fb022a121b.jpg)
 
-[![Next][Next.js]][Next-url]
 
 **Add New Account**
 ![Screenshot 2](https://telegra.ph/file/fb85357f7a98140ba3198-a723c61f6cac3758b4.jpg)
