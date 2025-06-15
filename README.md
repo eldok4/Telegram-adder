@@ -66,7 +66,7 @@ after scraping members from option 2 use the option 3 to add members. choose the
 
 3. **Install Requirements**
 ```
-  pip install r- requirements.txt
+  pip install -r requirements.txt
 ```
 4. **Run the script**
 ```
