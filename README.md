@@ -20,4 +20,8 @@ This script has almost all of the telegram related tool and will be updated ever
 
 ## Features
 
-**Add multi Accounts**
+❇️ **Add multi Accounts** 
+you can add unlimited accounts to the script. 
+❇️ **Retrieve group Members**
+you can scrape all the members of the group even hidden members. it saves to the members folder.
+
