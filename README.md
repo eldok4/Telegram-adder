@@ -59,4 +59,7 @@ after scraping members from option 2 use the option 3 to add members. choose the
 ```
 gitclone https://github.com/EmilyHelp/Testt/edit/main/README.md
    ```
-3. 
+2. Open the folder
+   ```
+   cd Telegram-Member
+   ```
