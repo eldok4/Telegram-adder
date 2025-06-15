@@ -56,6 +56,7 @@ after scraping members from option 2 use the option 3 to add members. choose the
 ## Running
 
 1. **Gitclone the repo**
-```gitclone https://github.com/EmilyHelp/Testt/edit/main/README.md```
+```
+gitclone https://github.com/EmilyHelp/Testt/edit/main/README.md```
    ```
 3. 
