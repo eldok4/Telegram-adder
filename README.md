@@ -90,4 +90,7 @@ I'm not responsible if your account got banned. never use your main account and 
 4. **idk** maybe new limitations occur cuz telegram keeps updating thier security.
 
 ## Contact 📞
+t.me/pittopiooh 
+
+**Thanks ❤**
 
