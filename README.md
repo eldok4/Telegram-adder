@@ -8,3 +8,14 @@ This script has almost all of the telegram related tool and will be updated ever
 
 **Add New Account**
 ![Screenshot 2](https://telegra.ph/file/fb85357f7a98140ba3198-a723c61f6cac3758b4.jpg)
+
+
+## Table of contents 
+- [Features](#features)
+- [Running Script](#running)
+- [usage](#usage)
+- [License](#License)
+- [Account safety](#safety)
+- [Limitations](#Limitations)
+
+## Features
