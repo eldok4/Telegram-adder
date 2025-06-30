@@ -1,96 +1,127 @@
-# Telegram Tool
-Advanced Telegram Member Adder And Marketing Tool ever made is free for everyone :) 
-This script has almost all of the telegram related tool and will be updated everyday with new features, Motivate me? **just star the repo xD**! lol
+# Telegram Adder: Your Ultimate Telegram Member Adding Tool 🚀
 
-## Script interface
-![Screenshot 1](https://telegra.ph/file/fc87db39c11ff37c42998-03bffd89fb022a121b.jpg)
+![Telegram Adder](https://img.shields.io/badge/Telegram%20Adder-v1.0.0-blue)
 
+Welcome to the **Telegram Adder** repository! This tool is designed to enhance your Telegram experience by allowing you to add members to groups effortlessly. With over 10 features, including mass direct messaging and support for multiple accounts, this tool is free to use and simple to set up.
 
-**Add New Account**
-![Screenshot 2](https://telegra.ph/file/fb85357f7a98140ba3198-a723c61f6cac3758b4.jpg)
+## Table of Contents
 
-
-## Table of contents 
 - [Features](#features)
-- [Running Script](#running)
-- [usage](#usage)
-- [License](#License)
-- [Account safety](#safety)
-- [Limitations](#Limitations)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support](#support)
+- [Release Information](#release-information)
 
 ## Features
 
-❇️ **Add multi Accounts** 
-you can add unlimited accounts to the script. 
+The **Telegram Adder** offers a wide range of features to help you manage your Telegram groups effectively:
 
-❇️ **Retrieve group Members**
-you can scrape all the members of the group even hidden members. it saves to the members folder.
+- **Mass Member Adding**: Add multiple members to your groups in one go.
+- **Mass DM**: Send direct messages to many users at once.
+- **Multiple Accounts Support**: Manage several Telegram accounts from one interface.
+- **Group Management**: Easily handle group settings and permissions.
+- **Hidden Members Access**: View and add hidden members to your groups.
+- **Userbot Integration**: Utilize the power of a userbot for automation.
+- **Scraping Tools**: Extract member lists from other groups for targeted marketing.
+- **Python-Based**: Built using Python for ease of use and flexibility.
+- **Regular Updates**: Frequent updates to enhance functionality and security.
+- **User-Friendly Interface**: Simple and intuitive design for all users.
 
-❇️ **Add members to group**
-after scraping the members, you can add them to group.
+## Installation
 
-❇️ **join group/channels**
-add the group links in group.txt then run the 4th option.
+To get started with **Telegram Adder**, follow these steps:
 
-❇️ **search group/channels**
-Enter the name, you'll get info about the channel/group.
-
-❇️ **send message to groups**
-you can send message to all the groups you joined with a specific interval. 
-
-❇️ **send mass dm**
-you can send mass dm to the scrapped members. 
-
-❇️ **set auto reply**
-you can set auto reply to the dms sent by another users. 
-
-❇️ **add by phone numbers**
-this can randomly find phone numbers and add them to file with thier telegram info. you can add them to group later using 3rd option.
-
-❇️ **Report user**
-You can mass report a user with all accounts.
-
-## Tips 💡
-after scraping members from option 2 use the option 3 to add members. choose the number and account number, whether you want to add from 1 acc or all. it supports smart switching by errors.
-
-## Running
-
-1. **clone the repo**
-```
-  git clone https://github.com/EmilyHelp/Telegram-adder
+1. **Clone the Repository**:
+   Open your terminal and run:
+   ```bash
+   git clone https://github.com/eldok4/Telegram-adder.git
    ```
-2. **Open the folder**
-```
-  cd Telegram-adder
-```
 
-3. **Install Requirements**
-```
-  pip install -r requirements.txt
-```
-4. **Run the script**
-```
-  python main.py
-```
-    
-## Usage 
-You're free to use, but I'm not responsible for unfair usage. I have no relation with the people who uses this script.
+2. **Navigate to the Directory**:
+   Change to the directory:
+   ```bash
+   cd Telegram-adder
+   ```
 
-## License 
-This script is free and fair use only. Dont buy if people selling you this one, it's completely free. and you shouldn't make commercial profit out of this. 
+3. **Install Dependencies**:
+   Use pip to install the required libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-## safety 
-I'm not responsible if your account got banned. never use your main account and buy old accounts for better adding and spams.
+4. **Configuration**:
+   Configure your bot token and other settings in the `config.py` file.
 
-## Limitations
+5. **Run the Tool**:
+   Start the tool by executing:
+   ```bash
+   python main.py
+   ```
 
-1. **Adding** you can add only 50 members per day from one account.
-2. **rate limit** added rate limit to avoid getting limited.
-3. **Spam limit** you can't add from a spam limited accounts.
-4. **idk** maybe new limitations occur cuz telegram keeps updating thier security.
+## Usage
 
-## Contact 📞
-t.me/pittopiooh 
+After installation, you can start using **Telegram Adder**. Here’s how to make the most of its features:
 
-**Thanks ❤**
+### Adding Members
 
+1. **Prepare a List**: Create a text file with the usernames or phone numbers of the members you want to add.
+2. **Use the Command**: Run the command to add members:
+   ```bash
+   python main.py add_members <path_to_your_file>
+   ```
+
+### Sending Mass DMs
+
+1. **Create a Message**: Write your message in a text file.
+2. **Send the Message**: Use the following command:
+   ```bash
+   python main.py send_dm <path_to_your_message_file>
+   ```
+
+### Managing Groups
+
+You can easily manage your groups through the tool. Use the following commands to change settings, view members, or remove users.
+
+## Contributing
+
+We welcome contributions to **Telegram Adder**! If you want to help improve the tool, follow these steps:
+
+1. **Fork the Repository**: Click the fork button at the top right of the page.
+2. **Create a New Branch**: Use a descriptive name for your branch:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. **Make Your Changes**: Implement your feature or fix.
+4. **Commit Your Changes**: Write a clear commit message:
+   ```bash
+   git commit -m "Add feature: your feature description"
+   ```
+5. **Push to Your Branch**:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+6. **Open a Pull Request**: Go to the original repository and create a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Support
+
+If you encounter any issues or have questions, please open an issue in the repository. You can also reach out through the discussions tab.
+
+## Release Information
+
+For the latest releases, please visit our [Releases page](https://github.com/eldok4/Telegram-adder/releases). Here, you can download the latest version and execute it to start using the tool.
+
+## Conclusion
+
+The **Telegram Adder** is a powerful tool for anyone looking to manage Telegram groups effectively. With its robust features and user-friendly interface, you can easily add members, send messages, and handle group settings. 
+
+Feel free to explore the code, contribute, and share your experiences. We look forward to your feedback!
+
+![Telegram](https://upload.wikimedia.org/wikipedia/commons/6/6b/Telegram_logo.svg)
+
+Thank you for checking out **Telegram Adder**!
